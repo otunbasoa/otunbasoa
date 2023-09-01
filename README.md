@@ -1,6 +1,6 @@
 # Hello, World!
 
-👋 Hi there! I'm Anjorin Samson Oluwatosin, a DevOps Engineer. Based in the city of Abuja, Nigeria. 
+👋 Hi there! I'm Anjorin Samson Oluwatosin, a DevOps Engineer based in the city of Abuja, Nigeria. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otunbasoa&show_icons=true&theme=transparent" />
