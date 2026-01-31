@@ -2,15 +2,12 @@
 
 👋 Hi there! I'm Anjorin Oluwatosin, a DevOps|Cloud Engineer based in the city of Abuja, Nigeria.
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=otunbasoa&show_icons=true&theme=transparent" />
-</a>
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otunbasoa&show_icons=true&hide_border=true&include_all_commits=true&theme=radical)
 
-<a href="https://github.com/otunbasoa">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=otunbasoa&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otunbasoa&layout=compact&hide_border=true&theme=radical)
+
 
 
 ## Professional Journey
